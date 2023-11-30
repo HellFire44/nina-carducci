@@ -71,6 +71,27 @@ body {
 	width: 100%;
 
 }
+
+.nav-link.active.active-tag {
+	color: #fff;
+	background-color: #BEB45A;
+	border-radius:0 ;
+	cursor: pointer;
+}
+
+.nav-link.active-tag{
+	color: #fff;
+	background-color: #BEB45A;
+	border-radius:0 ;
+	cursor: pointer;
+}
+
+.nav-link:hover{
+	color: #fff;
+}
+.nav-link.active-tag:hover{
+	color: #fff
+}
 #about-me {
 	flex: 2
 }
