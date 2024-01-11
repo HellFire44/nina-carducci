@@ -37,6 +37,28 @@ body {
     width: 20px;
 }
 
+.link-social { 
+    max-width: 100%;
+    height: auto;
+}
+
+#carouselImage {
+    max-width: 100% !important;
+    height: auto !important;
+}
+#nina-profil{
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+#camera-webp{
+    max-width: 100% !important;
+    height: auto !important;
+}
+
+#gallery-display {
+    display: none!important;
+}
 #about {
     display: flex;
     background-color: #f6d2b8;
